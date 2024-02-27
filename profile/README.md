@@ -20,7 +20,7 @@ At Threat Intel, we specialize in a comprehensive range of AI-driven cybersecuri
 ## Get in Touch
 To learn more about how Threat Intel can empower your cybersecurity strategy with AI, visit our website or contact us directly. Our team is ready to assist you in navigating the complex landscape of cyber threats and to provide the solutions you need to stay secure in the digital age.
 
-Website: [threatintel](https://threatintel.be)
-Contact Us: [press@threatintel.be](mailto:press@threatintel.be)
+- Website: [threatintel](https://threatintel.be)
+- Contact Us: [press@threatintel.be](mailto:press@threatintel.be)
 
 Join us in our mission to redefine cybersecurity through the power of AI. With Threat Intel, your digital future is secure.
